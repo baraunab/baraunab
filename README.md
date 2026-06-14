@@ -19,11 +19,10 @@
 ~ Projetos acadêmicos em destaque
 <p align="center">
 <a href="https://github.com/baraunab/logicus-atp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baraunab&repo=logicus-atp&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baraunab&repo=logicus-atp&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
-  &nbsp;
 <a href="https://github.com/baraunab/PROJETO-ANAKIN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baraunab&repo=PROJETO-ANAKIN&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baraunab&repo=PROJETO-ANAKIN&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
