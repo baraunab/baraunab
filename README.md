@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baraunab&repo=logicus-atp&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/baraunab/PROJETO-ANAKIN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baraunab&repo=PROJETO-ANAKIN&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baraunab&repo=PROJETO-ANAKIN&show_icons=false&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
