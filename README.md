@@ -17,14 +17,13 @@
 
 ## Meus projetos 🔮
 ~ Projetos acadêmicos em destaque
-<p align="center">
-<a href="https://github.com/baraunab/logicus-atp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baraunab&repo=logicus-atp&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/baraunab/PROJETO-ANAKIN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baraunab&repo=PROJETO-ANAKIN&show_icons=false&theme=tokyonight&hide_border=true" />
-</a>
-</p>
+
+<div align="center">
+
+[<img width="290" height="105" alt="image" src="https://github.com/user-attachments/assets/4f9f6990-c4a2-4ea8-9cf7-9eba3ddeec12" />](https://github.com/baraunab/logicus-atp) [<img width="290" height="105" alt="image" src="https://github.com/user-attachments/assets/94edd60c-fbf2-43da-9c3e-4649447d3a7f" />](https://github.com/baraunab/PROJETO-ANAKIN)
+
+</div>
+
 
 <img src="https://64.media.tumblr.com/eeb63286afcf61dfbdf0e8134b31e2cd/777d12558761f97d-4e/s2048x3072/2fa31eda6034dbdf13fbebbec63f889e8a160715.pnj">
 
